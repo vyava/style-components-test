@@ -44,7 +44,7 @@ const Container = styled.div`
 function App() {
   return (
     <AppContainer>
-      <Container color="blue">
+      <Container color="#000">
         <header>Header</header>
         <aside>Aside</aside>
         <Content>Enim dolore in veniam nulla et nisi aliqua Lorem in id dolor duis minim. Velit anim commodo non ea duis et officia consequat nulla. Ad nostrud laborum elit minim sunt sunt sit deserunt id et reprehenderit commodo cupidatat ullamco. Irure minim magna laborum labore ex nisi labore est do. Aliquip sunt amet do aliqua mollit ut minim sit excepteur reprehenderit ea ea ullamco commodo. In consectetur amet in eiusmod aute quis amet aliquip laboris anim.
